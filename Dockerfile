@@ -2,4 +2,4 @@
 FROM alpine:latest
 
 # Command to print message
-CMD echo "Hello, Captain!
+CMD echo "Hello, Captain!"
